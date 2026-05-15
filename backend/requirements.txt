@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==4.0.1
+python-multipart
+langchain
+langchain-groq
+langchain-core
+xgboost
+scikit-learn
+numpy
+python-dotenv
