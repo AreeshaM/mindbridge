@@ -1,4 +1,4 @@
-# 🧠 MindBridge — Mental Health Companion
+# 🧠 MindBridge Mental Health Companion
 
 A full-stack SaaS web application for daily mood tracking, 
 AI-powered mental health support, and wellness analytics.
@@ -39,4 +39,4 @@ npm run dev
 ```
 
 ## 👩‍💻 Developer
-Built with ❤️ by Areesha
+  Areesha Mubeen
